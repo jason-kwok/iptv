@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1,翡翠台2
+http://113.64.147.8:808/hls/67/index.m3u8
+#EXTINF:-1,无线新闻台
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8?zgangd
+#EXTINF:-1,耀才财经新闻
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,凤凰卫视中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1,凤凰卫视咨询台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1,凤凰香港 (720p)
+http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
+#EXTINF:-1,凤凰香港 (720p)
+http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
+#EXTINF:-1,面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,RTHK31
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1,RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1,TVB J2
+https://j3.lhlh.app/mv.m3u8
+#EXTINF:-1,TVB J1
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8?zgangd
+#EXTINF:-1,ViuTV
+http://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1,ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1,香港开电视
+http://livetv.dnsfor.me/channel.9.m3u8
+#EXTINF:-1,TVB影视剧
+http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
+#EXTINF:-1,新加坡CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,粤语电影
+http://tcqcloudcdnct.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
