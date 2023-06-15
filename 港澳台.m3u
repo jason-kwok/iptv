@@ -11,3 +11,9 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68466204-dbfa-47d8-9415-634aeb5
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-21b33288-f06b-4342-8bd3-a543193fa893.m3u8?by=yeslivetv_com
 #EXTINF:-1,J2
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217b642-a563-4037-bd99-cb19b7f6079f.m3u8?by=yeslivetv_com
+#EXTINF:-1,Now新闻台
+https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8×tamp=1686813953&rand=GLrHB4Qb7u&uuid=9b647b3816b2a66a&from=web&sign=cbd1f1e65ffe576c1f7bd5de7fdb34f3
+#EXTINF:-1,Now华剧台
+https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0×tamp=1686814025&rand=JhleNHfuHW&uuid=9b647b3816b2a66a&from=web&sign=39da711b452492f9f0c83b44bb53ee03
+#EXTINF:-1,TVB华剧台
+https://dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0×tamp=1686814090&rand=UCZD21a7Iy&uuid=9b647b3816b2a66a&from=web&sign=0c711c6902cdc02edc49206b485fe3f8
