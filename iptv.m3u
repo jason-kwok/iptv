@@ -35,9 +35,15 @@ https://pull-l3-cny.douyincdn.com/live/d61a774c221aca2aa91da6d214f88f0f.m3u8
 https://pull-l3-cny.douyincdn.com/live/040fbb643ce877f147fd7824065ea7ea.m3u8
 #EXTINF:-1, tvg-id="6013" tvg-name="广东体育" group-title="大陆",广东体育
 https://pull-l3-cny.douyincdn.com/live/6d3047ffd8871ed36b37a6bcf6a93532.m3u8
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" group-title="台湾",緯來體育台
+https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1686876873&rand=1Zo6q2RDH5&uuid=9b647b3816b2a66a&from=web&sign=f7cb4670ffbfea24f9a0c46a5d9126a0
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
+https://pull-l3-cny.douyincdn.com/live/4f49bc49f7d59256555f8e488ed8fa55.m3u8
 #EXTINF:-1, tvg-id="5" tvg-name="CCTV5" group-title="大陆",CCTV5
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2384cd79-630e-4afe-8fde-0ce846a2662e.m3u8?by=yeslivetv_com
 #EXTINF:-1, tvg-id="6" tvg-name="CCTV5+" group-title="大陆",CCTV5+
 https://pull-l3-cny.douyincdn.com/live/stream-ef791706-0b81-4ac8-98dd-3d2a0d8a095f.m3u8
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" group-title="台湾",緯來體育台
-https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1686876873&rand=1Zo6q2RDH5&uuid=9b647b3816b2a66a&from=web&sign=f7cb4670ffbfea24f9a0c46a5d9126a0
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
+http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
+http://sc2022.stream-link.org/tv2306.php?id=h11
