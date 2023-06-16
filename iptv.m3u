@@ -35,6 +35,16 @@ https://pull-l3-cny.douyincdn.com/live/d61a774c221aca2aa91da6d214f88f0f.m3u8
 https://pull-l3-cny.douyincdn.com/live/040fbb643ce877f147fd7824065ea7ea.m3u8
 #EXTINF:-1, tvg-id="6013" tvg-name="广东体育" group-title="广东",广东体育
 https://pull-l3-cny.douyincdn.com/live/6d3047ffd8871ed36b37a6bcf6a93532.m3u8
+#EXTINF:-1 group-title="广东",「广东」广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+#EXTINF:-1 group-title="广东",「广东」广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+#EXTINF:-1 group-title="广东",「广东」广东珠江
+http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="广东",「广东」广州综合
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 group-title="广东",「广东」广州南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" group-title="台湾",緯來體育台
 https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1686876873&rand=1Zo6q2RDH5&uuid=9b647b3816b2a66a&from=web&sign=f7cb4670ffbfea24f9a0c46a5d9126a0
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
