@@ -15,6 +15,8 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-21b33288-f06b-4342-8bd3-a543193
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217b642-a563-4037-bd99-cb19b7f6079f.m3u8?by=yeslivetv_com
 #EXTINF:-1,group-title="香港",Now新闻台
 https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686814457&rand=8H9KKSvOlJ&uuid=9b647b3816b2a66a&from=web&sign=ab0de7883108a9b069a9707d81636286
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" group-title="香港",有线新闻台
+https://pull-l3-cny.douyincdn.com/live/37df6222757b251639c1643406b374b7.m3u8
 #EXTINF:-1, tvg-id="127" tvg-name="明珠台" group-title="香港",明珠台
 https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686818559&rand=7pTzno9Vmv&uuid=9b647b3816b2a66a&from=web&sign=7152619f43e2a258effd51e9146d64a2
 #EXTINF:-1,group-title="台湾",TVBS 55
