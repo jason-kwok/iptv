@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1,翡翠台
+#EXTINF:-1,group-title="香港",翡翠台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-12e97cb6-d5a9-437b-bbaf-b803008bcfbf.m3u8?by=yeslivetv_com
-#EXTINF:-1,無綫新聞台
+#EXTINF:-1,group-title="香港",無綫新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-07371e8d-3079-4525-a419-7970c3edf2d6.m3u8?by=yeslivetv_com
-#EXTINF:-1,無綫財經·體育·資訊台
+#EXTINF:-1,group-title="香港",無綫財經·體育·資訊台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-09afaab7-405f-47bc-aac9-8ae202205462.m3u8?by=yeslivetv_com
-#EXTINF:-1,ViuTV
+#EXTINF:-1,group-title="香港",ViuTV
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68466204-dbfa-47d8-9415-634aeb58a98f.m3u8?by=yeslivetv_com
-#EXTINF:-1,明珠台
+#EXTINF:-1,group-title="香港",明珠台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-21b33288-f06b-4342-8bd3-a543193fa893.m3u8?by=yeslivetv_com
-#EXTINF:-1,J2
+#EXTINF:-1,group-title="香港",J2
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217b642-a563-4037-bd99-cb19b7f6079f.m3u8?by=yeslivetv_com
-#EXTINF:-1,Now新闻台
+#EXTINF:-1,group-title="香港",Now新闻台
 https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686814457&rand=8H9KKSvOlJ&uuid=9b647b3816b2a66a&from=web&sign=ab0de7883108a9b069a9707d81636286
-#EXTINF:-1,明珠台
+#EXTINF:-1,group-title="香港",明珠台
 https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686818559&rand=7pTzno9Vmv&uuid=9b647b3816b2a66a&from=web&sign=7152619f43e2a258effd51e9146d64a2
-#EXTINF:-1,TVBS 55
+#EXTINF:-1,group-title="台湾",TVBS 55
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68594525-2565-4103-8454-49840ad768c0.m3u8?by=yeslivetv_com
-#EXTINF:-1,TVBS 56
+#EXTINF:-1,group-title="台湾",TVBS 56
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2432b4d1-a32d-4f7c-bea7-b9ed4cf003ac.m3u8?by=yeslivetv_com
-#EXTINF:-1,東森新聞台
+#EXTINF:-1,group-title="台湾",東森新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-180595d3-c670-4b9f-9b8c-667b4564a736.m3u8?by=yeslivetv_com
-#EXTINF:-1,中天新闻
+#EXTINF:-1,group-title="台湾",中天新闻
 https://pull-l3-cny.douyincdn.com/live/69160f22d8984fcdf655d0a0c695528a.m3u8
-#EXTINF:-1,三立新闻
+#EXTINF:-1,group-title="台湾",三立新闻
 https://pull-l3-cny.douyincdn.com/live/d61a774c221aca2aa91da6d214f88f0f.m3u8
-#EXTINF:-1,三立新闻iNEWS
+#EXTINF:-1,group-title="台湾",三立新闻iNEWS
 https://pull-l3-cny.douyincdn.com/live/040fbb643ce877f147fd7824065ea7ea.m3u8
-#EXTINF:-1,广东体育
+#EXTINF:-1,group-title="大陆",广东体育
 https://pull-l3-cny.douyincdn.com/live/6d3047ffd8871ed36b37a6bcf6a93532.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1,group-title="大陆",CCTV5
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2384cd79-630e-4afe-8fde-0ce846a2662e.m3u8?by=yeslivetv_com
-#EXTINF:-1,CCTV5+
+#EXTINF:-1,group-title="大陆",CCTV5+
 https://pull-l3-cny.douyincdn.com/live/stream-ef791706-0b81-4ac8-98dd-3d2a0d8a095f.m3u8
-#EXTINF:-1,緯來體育台
+#EXTINF:-1,group-title="台湾",緯來體育台
 https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1686876873&rand=1Zo6q2RDH5&uuid=9b647b3816b2a66a&from=web&sign=f7cb4670ffbfea24f9a0c46a5d9126a0
