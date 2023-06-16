@@ -17,7 +17,9 @@ https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&tim
 https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686818559&rand=7pTzno9Vmv&uuid=9b647b3816b2a66a&from=web&sign=7152619f43e2a258effd51e9146d64a2
 #EXTINF:-1,group-title="台湾",TVBS 55
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68594525-2565-4103-8454-49840ad768c0.m3u8?by=yeslivetv_com
-#EXTINF:-1,group-title="台湾",TVBS 56
+#EXTINF:-1, tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾",TVBS新闻台
+https://pull-l3-cny.douyincdn.com/live/a4e13ec69bc57099cb16db94acd01f60.m3u8
+#EXTINF:-1, tvg-id="6074" tvg-name="TVBS" group-title="台湾",TVBS HD
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2432b4d1-a32d-4f7c-bea7-b9ed4cf003ac.m3u8?by=yeslivetv_com
 #EXTINF:-1,group-title="台湾",東森新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-180595d3-c670-4b9f-9b8c-667b4564a736.m3u8?by=yeslivetv_com
