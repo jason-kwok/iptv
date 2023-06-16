@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="81" tvg-name="翡翠台" group-title="香港",翡翠台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-12e97cb6-d5a9-437b-bbaf-b803008bcfbf.m3u8?by=yeslivetv_com
-#EXTINF:-1, tvg-id="83" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
+#EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="83" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-07371e8d-3079-4525-a419-7970c3edf2d6.m3u8?by=yeslivetv_com
 #EXTINF:-1, tvg-id="85" tvg-name="無綫財經·體育·資訊台" group-title="香港",無綫財經·體育·資訊台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-09afaab7-405f-47bc-aac9-8ae202205462.m3u8?by=yeslivetv_com
@@ -39,9 +39,9 @@ https://pull-l3-cny.douyincdn.com/live/6d3047ffd8871ed36b37a6bcf6a93532.m3u8
 https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1686876873&rand=1Zo6q2RDH5&uuid=9b647b3816b2a66a&from=web&sign=f7cb4670ffbfea24f9a0c46a5d9126a0
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="大陆",CCTV-1综合
 https://pull-l3-cny.douyincdn.com/live/4f49bc49f7d59256555f8e488ed8fa55.m3u8
-#EXTINF:-1, tvg-id="5" tvg-name="CCTV5" group-title="大陆",CCTV5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title=大陆",CCTV-5体育
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2384cd79-630e-4afe-8fde-0ce846a2662e.m3u8?by=yeslivetv_com
-#EXTINF:-1, tvg-id="6" tvg-name="CCTV5+" group-title="大陆",CCTV5+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="大陆",CCTV-5+体育赛事
 https://pull-l3-cny.douyincdn.com/live/stream-ef791706-0b81-4ac8-98dd-3d2a0d8a095f.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="大陆",CCTV-6电影
 http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8
