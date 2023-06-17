@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="81" tvg-name="翡翠台" group-title="香港",翡翠台
-https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686901609&rand=dL7eC7J4pu&uuid=9b647b3816b2a66a&from=web&sign=309aff6ba25500bdb35f5d48bec6e8ff
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5127bae1-40d2-42b3-9b52-32f41ea4067a.m3u8?by=yeslivetv_com
 #EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="83" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-07371e8d-3079-4525-a419-7970c3edf2d6.m3u8?by=yeslivetv_com
 #EXTINF:-1, tvg-id="85" tvg-name="無綫財經·體育·資訊台" group-title="香港",無綫財經·體育·資訊台
